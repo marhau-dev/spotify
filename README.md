@@ -26,7 +26,7 @@ Spotify pc no ADS
 
  [ I am not the author of this program            ]
 
- [  authors of the application mrpond and SpotX   ]
+ [  authors of the application SpotX   ]
 
   
   
